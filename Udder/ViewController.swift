@@ -18,5 +18,8 @@ class ViewController: UIViewController {
         //testing repositories
     }
 
+    override func viewDidDisappear(_ animated: Bool) {
+        //testing remote github repo
+    }
 }
 
